@@ -138,7 +138,7 @@ This project illustrates a fundamental atmospheric retrieval degeneracy:
 
 For example, a partially cloudy atmosphere may appear chemically depleted even when composition remains unchanged.
 
-Independent constraints — including **polarimetry, phase curves, or multi-epoch observations** — may help break this degeneracy by constraining cloud geometry.
+Independent constraints, including **polarimetry, phase curves or multi-epoch observations**, may help break this degeneracy by constraining cloud geometry.
 
 ---
 
