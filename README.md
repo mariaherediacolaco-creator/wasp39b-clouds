@@ -24,6 +24,10 @@ Intermediate cloud fractions (25%, 50%, 75%) were obtained by linearly mixing th
 | Stellar grid | Phoenix |
 
 ## Results
+## Transmission Spectrum
+
+![Patchy clouds model](plot_wasp39b-patchy_clouds.png)
+
 As cloud fraction increases from 0% to 100%:
 - The **water bands** (0.9, 1.4, 1.9 µm) are progressively muted
 - The **CO2 feature at 4.3 µm** — detected by JWST in WASP-39b — collapses dramatically
