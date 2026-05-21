@@ -52,11 +52,11 @@ This degeneracy between cloud coverage and chemical abundances is one of the cen
 ## Plots
 
 ### Cloud Fraction Models vs JWST Data
-![WASP-39b vs JWST](plots/plot_was39b_vs_JWST_data.png)
+![WASP-39b vs JWST](plots/plot_wasp39b_vs_JWST_data.png)
 
 The absolute offset between models and data reflects the use of a generic hot Jupiter P-T profile (`HJ_pt()`) rather than WASP-39b's retrieved profile. The shape and relative muting of features across cloud fractions is the focus.
 
 ### Normalized Comparison
-![WASP-39b vs JWST Normalized](plots/plot_was39b_vs_JWST_data_Normalized.png)
+![WASP-39b vs JWST Normalized](plots/plot_wasp39b_vs_JWST_data_Normalized.png)
 
 Same comparison with both models and data normalized to their respective means, isolating the shape of spectral features and the effect of cloud fraction independent of absolute transit depth.
