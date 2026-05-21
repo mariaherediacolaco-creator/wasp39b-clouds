@@ -23,10 +23,11 @@ Intermediate cloud fractions (25%, 50%, 75%) were obtained by linearly mixing th
 | Star radius | 0.895 RSun |
 | Stellar grid | Phoenix |
 
-## Results
 ## Transmission Spectrum
 
 ![Patchy clouds model](plot_wasp39b-patchy_clouds.png)
+
+## Results
 
 As cloud fraction increases from 0% to 100%:
 - The **water bands** (0.9, 1.4, 1.9 µm) are progressively muted
