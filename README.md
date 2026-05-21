@@ -115,11 +115,7 @@ As cloud fraction increases:
 
 ## Note on Absolute Offset
 
-The model transmission spectra sit approximately **0.003 above the JWST observations** in absolute transit depth.
-
-This offset is expected.
-
-The atmospheric profile used in this project corresponds to PICASO's built-in generic hot Jupiter atmosphere (`HJ_pt()`), which is hotter and more extended than the retrieved atmosphere of WASP-39b.
+The model transmission spectra sit approximately **0.003 above the JWST observations** in absolute transit depth. This offset is expected. The atmospheric profile used in this project corresponds to PICASO's built-in generic hot Jupiter atmosphere (`HJ_pt()`), which is hotter and more extended than the retrieved atmosphere of WASP-39b.
 
 The reference PICASO model shown in the publication used:
 
